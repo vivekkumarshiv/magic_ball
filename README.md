@@ -1,6 +1,6 @@
 # magic_ball
 
-A new Flutter project.
+Magic ball is a useful app to let you decide onto small decisions by randomly giving answers upon clicking over the ball.
 
 ## Getting Started
 
